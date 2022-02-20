@@ -6,7 +6,9 @@ public class DemoGithub {
 	{
 
 		System.out.println("This is Git Hub First Programme");
-
+		
+		DemoGithub bg = new DemoGithub();
+		bg.myfirstmethod();
 	}
 
 	
