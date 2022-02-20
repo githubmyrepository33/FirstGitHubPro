@@ -17,7 +17,7 @@ public class DemoGithub {
 		System.out.println("This is My First Method on GitHub");
 	}
 	
-	public void m4()
+	public void m5()
 	{
 		System.out.println("This is M4 Method 20th Feb 2021 Time 5:18PM");
 	}
