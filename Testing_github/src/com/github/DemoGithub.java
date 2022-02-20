@@ -9,4 +9,10 @@ public class DemoGithub {
 
 	}
 
+	
+	public void myfirstmethod()
+	{
+		System.out.println("This is My First Method on GitHub");
+	}
+	
 }
