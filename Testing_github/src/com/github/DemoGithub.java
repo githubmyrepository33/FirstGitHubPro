@@ -17,4 +17,9 @@ public class DemoGithub {
 		System.out.println("This is My First Method on GitHub");
 	}
 	
+	public void m5()
+	{
+		System.out.println("payal");
+	}
+	
 }
